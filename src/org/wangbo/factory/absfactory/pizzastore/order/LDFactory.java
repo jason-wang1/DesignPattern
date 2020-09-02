@@ -1,6 +1,5 @@
 package org.wangbo.factory.absfactory.pizzastore.order;
 
-import com.wangbo.factory.absfactory.pizzastore.pizza.*;
 import org.wangbo.factory.absfactory.pizzastore.pizza.LDCheesePizza;
 import org.wangbo.factory.absfactory.pizzastore.pizza.LDPepperPizza;
 import org.wangbo.factory.absfactory.pizzastore.pizza.Pizza;

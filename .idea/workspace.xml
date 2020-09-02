@@ -1,7 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java" description="    final V putVal(int hash, K key, V value, boole..." line="624" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f64c2af4-504d-46f9-8cbd-5b3dfa6d0b74" name="Default Changelist" comment="" />
+    <list default="true" id="1b480c90-2ec3-4792-86a6-fa25ac6f1623" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/terminal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/wangbo/composite/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/wangbo/composite/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/wangbo/composite/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/wangbo/composite/OrgComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/wangbo/composite/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/wangbo/composite/jdk/Composite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/META-INF/DesignPattern.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/classadapter/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/classadapter/IValtage5V.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/classadapter/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/classadapter/Valtage220V.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/classadapter/ValtageAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/interfaceadapter/AbsAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/interfaceadapter/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/interfaceadapter/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/interfaceadapter/Interface4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/objectadapter/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/objectadapter/IValtage5V.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/objectadapter/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/objectadapter/Valtage220V.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/objectadapter/ValtageAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/springMVC/AnnotationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/springMVC/AnnotationHandlerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/springMVC/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/springMVC/DispatchServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/springMVC/HandlerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/springMVC/HttpController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/springMVC/HttpHandlerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/springMVC/SimpleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/adapter/springMVC/SimpleHandlerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/builder/AbstractHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/builder/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/builder/CommonHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/builder/improve/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/builder/improve/CommonHouseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/builder/improve/HighHouseBuilding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/builder/improve/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/builder/improve/HouseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/builder/improve/HouseDirector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/builder/jdk/Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/Cafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/Drink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/LongBlack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/ShortBlack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/improve/CafeBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/improve/Chocolate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/improve/Coffee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/improve/Decorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/improve/Drink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/improve/Espresso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/improve/LongBlack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/improve/Milk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/improve/ShortBlack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/improve/Soy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/decorator/jdk/Decorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/absfactory/pizzastore/order/AbsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/absfactory/pizzastore/order/BJFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/absfactory/pizzastore/order/LDFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/absfactory/pizzastore/order/OrderPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/absfactory/pizzastore/order/PizzaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/absfactory/pizzastore/pizza/BJCheesePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/absfactory/pizzastore/pizza/BJPepperPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/absfactory/pizzastore/pizza/LDCheesePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/absfactory/pizzastore/pizza/LDPepperPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/absfactory/pizzastore/pizza/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/factorymethod/pizzastore/order/BJOrderPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/factorymethod/pizzastore/order/LDOrderPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/factorymethod/pizzastore/order/OrderPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/factorymethod/pizzastore/order/PizzaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/factorymethod/pizzastore/pizza/BJCheesePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/factorymethod/pizzastore/pizza/BJPepperPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/factorymethod/pizzastore/pizza/LDCheesePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/factorymethod/pizzastore/pizza/LDPepperPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/factorymethod/pizzastore/pizza/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/jdk/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/simplefactory/pizzastore/order/OrderPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/simplefactory/pizzastore/order/OrderPizza2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/simplefactory/pizzastore/order/PizzaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/simplefactory/pizzastore/order/SimpleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/simplefactory/pizzastore/pizza/CheesePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/simplefactory/pizzastore/pizza/GreekPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/simplefactory/pizzastore/pizza/PepperPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/factory/simplefactory/pizzastore/pizza/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/inversion/DependencyInversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/inversion/Email.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/inversion/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/inversion/WeiXin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/inversion/improve/DependencyInversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/inversion/improve/Email.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/inversion/improve/IReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/inversion/improve/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/inversion/improve/WeiXin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/GraphEditor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/Ocp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/Sharp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/improve/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/improve/GraphEditor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/improve/Ocp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/improve/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/improve/Sharp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/ocp/improve/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/Interface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/Segregation1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/improve/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/improve/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/improve/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/improve/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/improve/Interface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/improve/Interface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/improve/Interface3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/segregation/improve/Segregation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/sigleresponsibility/AirVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/sigleresponsibility/RoadVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/sigleresponsibility/SingleResponsibility1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/sigleresponsibility/SingleResponsibility2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/sigleresponsibility/SingleResponsibility3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/sigleresponsibility/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/sigleresponsibility/Vehicle2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/priciple/sigleresponsibility/WaterVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/singleton/jdk/RunTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/singleton/type1/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/singleton/type1/SingletonTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/PekingDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/ToyDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/WildDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/improve/BadFlyBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/improve/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/improve/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/improve/FlyBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/improve/GoodFlyBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/improve/NoFlyBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/improve/PekingDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/improve/ToyDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/improve/WildDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/jdk/Strategy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/stratege/jdk/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/test/Day.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/test/EnumDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/aggregation/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/aggregation/Monitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/aggregation/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/association/IDCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/association/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/composision/Head.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/composision/IDCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/composision/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/dependence/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/dependence/IDCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/dependence/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/dependence/PersonDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/dependence/PersonServerBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/generalization/DaoSupport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/generalization/PersonServiceBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/implementation/PersonService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/wangbo/uml/implementation/PersonServiceBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wangbo/factory/absfactory/pizzastore/order/LDFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/wangbo/factory/absfactory/pizzastore/order/LDFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wangbo/factory/factorymethod/pizzastore/order/LDOrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/wangbo/factory/factorymethod/pizzastore/order/LDOrderPizza.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,36 +182,101 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/wangbo/factory/factorymethod/pizzastore/order/BJOrderPizza.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="148">
+              <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangbo/factory/factorymethod/pizzastore/order/OrderPizza.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="148">
+              <caret line="207" column="13" selection-start-line="207" selection-start-column="13" selection-end-line="207" selection-end-column="13" />
+              <folding>
+                <element signature="e#6210#6211#0" expanded="true" />
+                <element signature="e#6267#6268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="627" column="22" selection-start-line="627" selection-start-column="22" selection-end-line="627" selection-end-column="22" />
+              <folding>
+                <element signature="e#24329#24330#0" expanded="true" />
+                <element signature="e#24394#24395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/wangbo/composite/jdk/Composite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/java.util.HashMap">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>java.util.HashMap</OriginalElement>
+              <nodes>
+                <node x="53.75" y="170.0">java.util.HashMap</node>
+                <node x="0.0" y="85.0">java.util.AbstractMap</node>
+                <node x="67.75" y="255.0">java.util.HashMap.Node</node>
+                <node x="70.75" y="0.0">java.util.Map</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="java.util.HashMap" target="java.util.Map">
+                  <point x="31.25" y="-17.5" />
+                  <point x="147.5" y="145.0" />
+                  <point x="158.5" y="145.0" />
+                  <point x="158.5" y="60.0" />
+                  <point x="139.0" y="60.0" />
+                  <point x="22.75" y="17.5" />
+                </edge>
+                <edge source="java.util.HashMap.Node" target="java.util.HashMap">
+                  <point x="0.0" y="-17.5" />
+                  <point x="0.0" y="17.5" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.util.AbstractMap">
+                  <point x="-31.25" y="-17.5" />
+                  <point x="85.0" y="145.0" />
+                  <point x="74.0" y="145.0" />
+                  <point x="0.0" y="17.5" />
+                </edge>
+                <edge source="java.util.AbstractMap" target="java.util.Map">
+                  <point x="0.0" y="-17.5" />
+                  <point x="74.0" y="60.0" />
+                  <point x="93.5" y="60.0" />
+                  <point x="-22.75" y="17.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="220.0" y="220.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -48,70 +286,32 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>charAt</find>
+      <find>put</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/wangbo/adapter/objectadapter/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/adapter/interfaceadapter/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/Duck.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/WildDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/PekingDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/ToyDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/improve/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/improve/WildDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/improve/PekingDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/improve/FlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/improve/GoodFlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/improve/NoFlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/improve/BadFlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/improve/ToyDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/improve/Duck.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/stratege/jdk/Strategy.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/factory/jdk/Factory.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/AbstractHouse.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/CommonHouse.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/improve/HouseDirector.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/improve/House.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/improve/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/improve/HouseBuilder.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/improve/CommonHouse.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/improve/CommonHouseBuilder.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/improve/HighBuilding.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/improve/HighHouseBuilding.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/builder/jdk/Builder.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/singleton/jdk/RunTime.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/adapter/springMVC/HandlerAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/adapter/springMVC/Controller.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/adapter/objectadapter/IValtage5V.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/Coffee.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/Espresso.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/Decorator.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/Chocolate.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/Milk.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/Soy.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/CafeBar.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/jdk/Cafe.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/LongBlack.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/ShortBlack.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/improve/Chocolate.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/improve/Decorator.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/Drink.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/Cafe.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/decorator/jdk/Decorator.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/adapter/interfaceadapter/AbsAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/wangbo/adapter/interfaceadapter/Interface4.java" />
+        <option value="$PROJECT_DIR$/src/org/wangbo/composite/OrgnizationComponent.java" />
+        <option value="$PROJECT_DIR$/src/org/wangbo/composite/Department.java" />
+        <option value="$PROJECT_DIR$/src/org/wangbo/composite/Client.java" />
+        <option value="$PROJECT_DIR$/src/org/wangbo/composite/University.java" />
+        <option value="$PROJECT_DIR$/src/org/wangbo/factory/absfactory/pizzastore/order/LDFactory.java" />
+        <option value="$PROJECT_DIR$/src/org/wangbo/factory/factorymethod/pizzastore/order/LDOrderPizza.java" />
+        <option value="$PROJECT_DIR$/src/org/wangbo/composite/College.java" />
+        <option value="$PROJECT_DIR$/src/org/wangbo/composite/OrganizationComponent.java" />
+        <option value="$PROJECT_DIR$/src/org/wangbo/composite/OrgComponent.java" />
+        <option value="$PROJECT_DIR$/src/org/wangbo/composite/jdk/Composit.java" />
+        <option value="$PROJECT_DIR$/src/org/wangbo/composite/jdk/Composite.java" />
       </list>
     </option>
   </component>
@@ -123,10 +323,13 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -134,7 +337,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,34 +349,82 @@
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wangbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wangbo" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wangbo" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wangbo" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wangbo" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzastore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wangbo" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzastore" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wangbo" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzastore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wangbo" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="pizzastore" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598862026386" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598973427865" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\BoWANG\IdeaProjects\DesignPattern\src\com\wangbo\adapter\springMVC" />
-      <recent name="C:\Users\BoWANG\IdeaProjects\DesignPattern\src\com\wangbo\stratege\improve" />
-      <recent name="C:\Users\BoWANG\IdeaProjects\DesignPattern\src\com\wangbo\adapter\objectadapter" />
-      <recent name="C:\Users\BoWANG\IdeaProjects\DesignPattern\src\com\wangbo\factory\simplefactory\pizzastore\pizza" />
-      <recent name="C:\Users\BoWANG\IdeaProjects\DesignPattern\src\com\wangbo\factory\absfactory\pizzastore\pizza" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.wangbo.factory.factorymethod.pizzastore.order" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.wangbo.uml.dependence" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -188,65 +438,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Decorator">
-    <configuration name="Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangbo.decorator.Cafe" />
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.wangbo.composite.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangbo.decorator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CafeBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangbo.decorator.improve.CafeBar" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wangbo.decorator.improve.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Decorator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangbo.decorator.jdk.Decorator" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wangbo.decorator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DispatchServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangbo.adapter.springMVC.DispatchServlet" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wangbo.adapter.springMVC.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RunTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangbo.singleton.jdk.RunTime" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wangbo.singleton.jdk.*" />
+          <option name="PATTERN" value="org.wangbo.composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,803 +454,315 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Decorator" />
-        <item itemvalue="Application.Cafe" />
-        <item itemvalue="Application.CafeBar" />
-        <item itemvalue="Application.DispatchServlet" />
-        <item itemvalue="Application.RunTime" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f64c2af4-504d-46f9-8cbd-5b3dfa6d0b74" name="Default Changelist" comment="" />
-      <created>1596936681341</created>
+      <changelist id="1b480c90-2ec3-4792-86a6-fa25ac6f1623" name="Default Changelist" comment="" />
+      <created>1598878744226</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1596936681341</updated>
-      <workItem from="1596936687445" duration="18391000" />
-      <workItem from="1597110416251" duration="609000" />
-      <workItem from="1597906703078" duration="20000" />
-      <workItem from="1598015262647" duration="6714000" />
-      <workItem from="1598059132060" duration="101000" />
-      <workItem from="1598063989154" duration="10919000" />
-      <workItem from="1598147093847" duration="12000" />
-      <workItem from="1598164688734" duration="2720000" />
-      <workItem from="1598190587268" duration="3015000" />
-      <workItem from="1598276184180" duration="2719000" />
-      <workItem from="1598341244198" duration="2912000" />
-      <workItem from="1598410443433" duration="1218000" />
-      <workItem from="1598412698882" duration="605000" />
-      <workItem from="1598448290284" duration="5385000" />
-      <workItem from="1598502745554" duration="3142000" />
-      <workItem from="1598518611626" duration="3152000" />
-      <workItem from="1598620970834" duration="7039000" />
-      <workItem from="1598664407090" duration="11610000" />
-      <workItem from="1598703884690" duration="6955000" />
-      <workItem from="1598757256880" duration="8178000" />
-      <workItem from="1598796173717" duration="614000" />
-      <workItem from="1598797744043" duration="2274000" />
-      <workItem from="1598861680129" duration="236000" />
+      <updated>1598878744226</updated>
+      <workItem from="1598878747261" duration="650000" />
+      <workItem from="1598879408330" duration="673000" />
+      <workItem from="1598880102063" duration="126000" />
+      <workItem from="1598880248793" duration="58000" />
+      <workItem from="1598880327760" duration="162000" />
+      <workItem from="1598880509479" duration="240000" />
+      <workItem from="1598880771727" duration="1317000" />
+      <workItem from="1598927398339" duration="150000" />
+      <workItem from="1598967382349" duration="6089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98582000" />
+    <option name="totallyTimeSpent" value="9465000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.2919708" visible="true" weight="0.2968961" />
-      <window_info id="Structure" order="1" sideWeight="0.7080292" side_tool="true" weight="0.2874494" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.22862823" visible="true" weight="0.2489796" />
+      <window_info id="Structure" order="1" sideWeight="0.7713718" side_tool="true" weight="0.2489796" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25693431" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33138686" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.15912409" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32902032" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.0702403" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32902032" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.329927" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32902032" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.0702403" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="PlantUML" order="4" sideWeight="0.48076922" weight="0.025641026" />
-      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="7" sideWeight="0.52006423" side_tool="true" visible="true" weight="0.025641026" />
-      <window_info anchor="right" id="SciView" order="8" />
-      <window_info anchor="right" id="Database" order="9" sideWeight="0.49927008" weight="0.3299595" />
-      <window_info anchor="right" id="Palette&#9;" order="10" />
-      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>super.flyBehavior</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/adapter/objectadapter/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/org/wangbo/adapter/classadapter/Phone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="66">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/adapter/objectadapter/IValtage5V.java">
+    <entry file="file://$PROJECT_DIR$/src/org/wangbo/adapter/classadapter/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="27">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/Reader.java">
+    <entry file="file://$PROJECT_DIR$/src/org/wangbo/factory/absfactory/pizzastore/order/LDFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3537">
-          <caret line="156" column="24" selection-start-line="156" selection-start-column="24" selection-end-line="156" selection-end-column="24" />
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/adapter/objectadapter/Phone.java">
+    <entry file="file://$PROJECT_DIR$/src/org/wangbo/factory/factorymethod/pizzastore/order/LDOrderPizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="-505">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/improve/ShortBlack.java">
+    <entry file="file://$PROJECT_DIR$/src/org/wangbo/composite/Department.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="202">
+          <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+          <folding>
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/improve/Soy.java">
+    <entry file="file://$PROJECT_DIR$/src/org/wangbo/composite/College.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="167">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#298#321#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.wangbo.decorator.improve.Drink">
+    <entry file="file://$PROJECT_DIR$/src/org/wangbo/composite/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="869">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/wangbo/composite/OrgComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/wangbo/composite/University.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#339#362#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.wangbo.composite.University">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.wangbo.decorator.improve.Drink</OriginalElement>
+          <OriginalElement>org.wangbo.composite.University</OriginalElement>
           <nodes>
-            <node x="" y="">com.wangbo.decorator.improve.Drink</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="49.0" y="18.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.wangbo.decorator.improve.LongBlack">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.wangbo.decorator.improve.LongBlack</OriginalElement>
-          <nodes>
-            <node x="516.0" y="432.0">com.wangbo.decorator.improve.Espresso</node>
-            <node x="498.5" y="294.5">com.wangbo.decorator.improve.Coffee</node>
-            <node x="656.0" y="432.0">com.wangbo.decorator.improve.ShortBlack</node>
-            <node x="73.0" y="268.0">com.wangbo.decorator.improve.Decorator</node>
-            <node x="262.75" y="0.0">com.wangbo.decorator.improve.Drink</node>
-            <node x="365.0" y="432.0">com.wangbo.decorator.improve.LongBlack</node>
-            <node x="254.0" y="432.0">com.wangbo.decorator.improve.Milk</node>
-            <node x="105.0" y="432.0">com.wangbo.decorator.improve.Chocolate</node>
-            <node x="0.0" y="432.0">com.wangbo.decorator.improve.Soy</node>
+            <node x="526.0" y="137.0">org.wangbo.composite.University</node>
+            <node x="251.5" y="0.0">org.wangbo.composite.OrgComponent</node>
+            <node x="0.0" y="150.0">org.wangbo.composite.Department</node>
+            <node x="162.0" y="137.0">org.wangbo.composite.College</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="com.wangbo.decorator.improve.Decorator" target="com.wangbo.decorator.improve.Drink">
-              <point x="0.0" y="-57.0" />
-              <point x="169.5" y="243.0" />
-              <point x="317.75" y="243.0" />
-              <point x="-55.0" y="109.0" />
-            </edge>
-            <edge source="com.wangbo.decorator.improve.Soy" target="com.wangbo.decorator.improve.Decorator">
+            <edge source="org.wangbo.composite.Department" target="org.wangbo.composite.OrgComponent">
               <point x="0.0" y="-17.5" />
-              <point x="42.5" y="407.0" />
-              <point x="105.16666666666669" y="407.0" />
-              <point x="-64.33333333333333" y="57.0" />
+              <point x="71.0" y="112.0" />
+              <point x="279.0" y="112.0" />
+              <point x="-55.0" y="43.5" />
             </edge>
-            <edge source="com.wangbo.decorator.improve.Milk" target="com.wangbo.decorator.improve.Decorator">
-              <point x="0.0" y="-17.5" />
-              <point x="299.5" y="407.0" />
-              <point x="233.83333333333331" y="407.0" />
-              <point x="64.33333333333331" y="57.0" />
-            </edge>
-            <edge source="com.wangbo.decorator.improve.LongBlack" target="com.wangbo.decorator.improve.Coffee">
-              <point x="0.0" y="-17.5" />
-              <point x="430.5" y="407.0" />
-              <point x="524.3333333333334" y="407.0" />
-              <point x="-51.66666666666663" y="30.5" />
-            </edge>
-            <edge source="com.wangbo.decorator.improve.ShortBlack" target="com.wangbo.decorator.improve.Coffee">
-              <point x="0.0" y="-17.5" />
-              <point x="722.5" y="407.0" />
-              <point x="627.6666666666666" y="407.0" />
-              <point x="51.66666666666663" y="30.5" />
-            </edge>
-            <edge source="com.wangbo.decorator.improve.Espresso" target="com.wangbo.decorator.improve.Coffee">
-              <point x="0.0" y="-17.5" />
-              <point x="0.0" y="30.5" />
-            </edge>
-            <edge source="com.wangbo.decorator.improve.Coffee" target="com.wangbo.decorator.improve.Drink">
+            <edge source="org.wangbo.composite.University" target="org.wangbo.composite.OrgComponent">
               <point x="0.0" y="-30.5" />
-              <point x="576.0" y="243.0" />
-              <point x="427.75" y="243.0" />
-              <point x="55.0" y="109.0" />
+              <point x="698.0" y="112.0" />
+              <point x="389.0" y="112.0" />
+              <point x="55.0" y="43.5" />
             </edge>
-            <edge source="com.wangbo.decorator.improve.Chocolate" target="com.wangbo.decorator.improve.Decorator">
-              <point x="0.0" y="-17.5" />
-              <point x="0.0" y="57.0" />
+            <edge source="org.wangbo.composite.College" target="org.wangbo.composite.OrgComponent">
+              <point x="0.0" y="-30.5" />
+              <point x="0.0" y="43.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="131.0" y="176.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="95.0" y="218.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
-            <Category>Methods</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/improve/LongBlack.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="148">
+          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/improve/Decorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/improve/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/improve/Drink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/improve/Espresso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/improve/CafeBar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/improve/Chocolate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/improve/Milk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/Cafe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/Drink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-          <folding>
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/ShortBlack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/LongBlack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.wangbo.decorator.LongBlack">
+    <entry file="uml://JAVA/java.util.HashMap">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.wangbo.decorator.LongBlack</OriginalElement>
+          <OriginalElement>java.util.HashMap</OriginalElement>
           <nodes>
-            <node x="" y="">com.wangbo.decorator.LongBlack</node>
-            <node x="" y="">com.wangbo.decorator.ShortBlack</node>
-            <node x="" y="">com.wangbo.decorator.Drink</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-207.0" y="220.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-219">
-          <caret line="123" column="18" lean-forward="true" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.io.DataInputStream">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.io.DataInputStream</OriginalElement>
-          <nodes>
-            <node x="225.0" y="170.0">java.io.DataInputStream</node>
-            <node x="118.45833333333331" y="85.0">java.io.FilterInputStream</node>
-            <node x="0.0" y="170.0">java.io.BufferedInputStream</node>
-            <node x="319.4583333333333" y="85.0">java.io.ByteArrayInputStream</node>
-            <node x="553.4583333333333" y="85.0">java.io.FileInputStream</node>
-            <node x="353.0" y="0.0">java.io.InputStream</node>
+            <node x="53.75" y="170.0">java.util.HashMap</node>
+            <node x="0.0" y="85.0">java.util.AbstractMap</node>
+            <node x="67.75" y="255.0">java.util.HashMap.Node</node>
+            <node x="70.75" y="0.0">java.util.Map</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="java.io.ByteArrayInputStream" target="java.io.InputStream">
+            <edge source="java.util.HashMap" target="java.util.Map">
+              <point x="31.25" y="-17.5" />
+              <point x="147.5" y="145.0" />
+              <point x="158.5" y="145.0" />
+              <point x="158.5" y="60.0" />
+              <point x="139.0" y="60.0" />
+              <point x="22.75" y="17.5" />
+            </edge>
+            <edge source="java.util.HashMap.Node" target="java.util.HashMap">
               <point x="0.0" y="-17.5" />
               <point x="0.0" y="17.5" />
             </edge>
-            <edge source="java.io.FileInputStream" target="java.io.InputStream">
-              <point x="0.0" y="-17.5" />
-              <point x="638.4583333333333" y="60.0" />
-              <point x="474.66666666666663" y="60.0" />
-              <point x="48.66666666666663" y="17.5" />
+            <edge source="java.util.HashMap" target="java.util.AbstractMap">
+              <point x="-31.25" y="-17.5" />
+              <point x="85.0" y="145.0" />
+              <point x="74.0" y="145.0" />
+              <point x="0.0" y="17.5" />
             </edge>
-            <edge source="java.io.BufferedInputStream" target="java.io.FilterInputStream">
+            <edge source="java.util.AbstractMap" target="java.util.Map">
               <point x="0.0" y="-17.5" />
-              <point x="102.5" y="145.0" />
-              <point x="163.70833333333331" y="145.0" />
-              <point x="-45.25" y="17.5" />
-            </edge>
-            <edge source="java.io.FilterInputStream" target="java.io.InputStream">
-              <point x="0.0" y="-17.5" />
-              <point x="208.95833333333331" y="60.0" />
-              <point x="377.3333333333333" y="60.0" />
-              <point x="-48.666666666666686" y="17.5" />
-            </edge>
-            <edge source="java.io.DataInputStream" target="java.io.FilterInputStream">
-              <point x="0.0" y="-17.5" />
-              <point x="314.5" y="145.0" />
-              <point x="254.20833333333331" y="145.0" />
-              <point x="45.25" y="17.5" />
+              <point x="74.0" y="60.0" />
+              <point x="93.5" y="60.0" />
+              <point x="-22.75" y="17.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.1" x="193.0" y="198.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="220.0" y="220.0" />
           <SelectedNodes />
-          <Categories />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/DataInputStream.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FilterInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        <state relative-caret-position="148">
+          <caret line="207" column="13" selection-start-line="207" selection-start-column="13" selection-end-line="207" selection-end-column="13" />
           <folding>
-            <element signature="e#1393#1394#0" expanded="true" />
-            <element signature="e#1421#1422#0" expanded="true" />
+            <element signature="e#6210#6211#0" expanded="true" />
+            <element signature="e#6267#6268#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/decorator/jdk/Decorator.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="134">
+          <caret line="627" column="22" selection-start-line="627" selection-start-column="22" selection-end-line="627" selection-end-column="22" />
+          <folding>
+            <element signature="e#24329#24330#0" expanded="true" />
+            <element signature="e#24394#24395#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.wangbo.builder.improve.HouseDirector">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.wangbo.builder.improve.HouseDirector</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">com.wangbo.builder.improve.HouseDirector</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-204.0" y="-53.0" />
-          <SelectedNodes>
-            <node>com.wangbo.builder.improve.HouseDirector</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/builder/improve/HouseDirector.java">
+    <entry file="file://$PROJECT_DIR$/src/org/wangbo/composite/jdk/Composite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/builder/improve/CommonHouseBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/builder/improve/House.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.wangbo.builder.improve.CommonHouseBuilder">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.wangbo.builder.improve.CommonHouseBuilder</OriginalElement>
-          <nodes>
-            <node x="" y="">com.wangbo.builder.improve.HighHouseBuilding</node>
-            <node x="" y="">com.wangbo.builder.improve.CommonHouseBuilder</node>
-            <node x="" y="">com.wangbo.builder.improve.HouseBuilder</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="89.0" y="60.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/stratege/improve/PekingDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/stratege/improve/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/stratege/improve/BadFlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.wangbo.stratege.improve.BadFlyBehavior">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.wangbo.stratege.improve.BadFlyBehavior</OriginalElement>
-          <nodes>
-            <node x="383.0" y="111.0">com.wangbo.stratege.improve.NoFlyBehavior</node>
-            <node x="0.0" y="111.0">com.wangbo.stratege.improve.BadFlyBehavior</node>
-            <node x="186.0" y="111.0">com.wangbo.stratege.improve.GoodFlyBehavior</node>
-            <node x="203.5" y="0.0">com.wangbo.stratege.improve.FlyBehavior</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.wangbo.stratege.improve.NoFlyBehavior" target="com.wangbo.stratege.improve.FlyBehavior">
-              <point x="0.0" y="-30.5" />
-              <point x="463.5" y="86.0" />
-              <point x="321.83333333333337" y="86.0" />
-              <point x="47.33333333333337" y="30.5" />
-            </edge>
-            <edge source="com.wangbo.stratege.improve.GoodFlyBehavior" target="com.wangbo.stratege.improve.FlyBehavior">
-              <point x="0.0" y="-30.5" />
-              <point x="0.0" y="30.5" />
-            </edge>
-            <edge source="com.wangbo.stratege.improve.BadFlyBehavior" target="com.wangbo.stratege.improve.FlyBehavior">
-              <point x="0.0" y="-30.5" />
-              <point x="83.0" y="86.0" />
-              <point x="227.16666666666666" y="86.0" />
-              <point x="-47.33333333333334" y="30.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-182.0" y="-10.0" />
-          <SelectedNodes>
-            <node>com.wangbo.stratege.improve.BadFlyBehavior</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.wangbo.stratege.improve.PekingDuck">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.wangbo.stratege.improve.PekingDuck</OriginalElement>
-          <nodes>
-            <node x="" y="">com.wangbo.stratege.improve.WildDuck</node>
-            <node x="" y="">com.wangbo.stratege.improve.PekingDuck</node>
-            <node x="" y="">com.wangbo.stratege.improve.ToyDuck</node>
-            <node x="" y="">com.wangbo.stratege.improve.Duck</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-168.0" y="-10.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/adapter/classadapter/ValtageAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/adapter/classadapter/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.wangbo.adapter.classadapter.ValtageAdapter">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.wangbo.adapter.classadapter.ValtageAdapter</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">com.wangbo.adapter.classadapter.Valtage220V</node>
-            <node x="217.0" y="0.0">com.wangbo.adapter.classadapter.IValtage5V</node>
-            <node x="112.75" y="111.0">com.wangbo.adapter.classadapter.ValtageAdapter</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.wangbo.adapter.classadapter.ValtageAdapter" target="com.wangbo.adapter.classadapter.Valtage220V">
-              <point x="-45.0" y="-30.5" />
-              <point x="157.75" y="86.0" />
-              <point x="98.5" y="86.0" />
-              <point x="0.0" y="30.5" />
-            </edge>
-            <edge source="com.wangbo.adapter.classadapter.ValtageAdapter" target="com.wangbo.adapter.classadapter.IValtage5V">
-              <point x="45.0" y="-30.5" />
-              <point x="247.75" y="86.0" />
-              <point x="307.0" y="86.0" />
-              <point x="0.0" y="30.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-113.0" y="-10.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/adapter/objectadapter/ValtageAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/adapter/interfaceadapter/AbsAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/adapter/interfaceadapter/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.wangbo.adapter.objectadapter.ValtageAdapter">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.wangbo.adapter.objectadapter.ValtageAdapter</OriginalElement>
-          <nodes>
-            <node x="40.5" y="0.0">com.wangbo.adapter.objectadapter.IValtage5V</node>
-            <node x="0.0" y="111.0">com.wangbo.adapter.objectadapter.ValtageAdapter</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.wangbo.adapter.objectadapter.ValtageAdapter" target="com.wangbo.adapter.objectadapter.IValtage5V">
-              <point x="0.0" y="-44.0" />
-              <point x="0.0" y="30.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-180.0" y="-10.0" />
-          <SelectedNodes>
-            <node>com.wangbo.adapter.objectadapter.ValtageAdapter</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/adapter/interfaceadapter/Interface4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/factory/simplefactory/pizzastore/order/SimpleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/factory/simplefactory/pizzastore/order/OrderPizza2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/factory/factorymethod/pizzastore/pizza/BJCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.wangbo.adapter.interfaceadapter.AbsAdapter">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.wangbo.adapter.interfaceadapter.AbsAdapter</OriginalElement>
-          <nodes>
-            <node x="" y="">com.wangbo.adapter.interfaceadapter.Interface4</node>
-            <node x="" y="">com.wangbo.adapter.interfaceadapter.AbsAdapter</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="72.0" y="60.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.wangbo.factory.factorymethod.pizzastore.order.BJOrderPizza">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.wangbo.factory.factorymethod.pizzastore.order.BJOrderPizza</OriginalElement>
-          <nodes>
-            <node x="135.0" y="0.0">com.wangbo.factory.factorymethod.pizzastore.order.OrderPizza</node>
-            <node x="270.0" y="137.0">com.wangbo.factory.factorymethod.pizzastore.order.LDOrderPizza</node>
-            <node x="0.0" y="137.0">com.wangbo.factory.factorymethod.pizzastore.order.BJOrderPizza</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.wangbo.factory.factorymethod.pizzastore.order.BJOrderPizza" target="com.wangbo.factory.factorymethod.pizzastore.order.OrderPizza">
-              <point x="0.0" y="-30.5" />
-              <point x="125.0" y="112.0" />
-              <point x="197.5" y="112.0" />
-              <point x="-62.5" y="43.5" />
-            </edge>
-            <edge source="com.wangbo.factory.factorymethod.pizzastore.order.LDOrderPizza" target="com.wangbo.factory.factorymethod.pizzastore.order.OrderPizza">
-              <point x="0.0" y="-30.5" />
-              <point x="395.0" y="112.0" />
-              <point x="322.5" y="112.0" />
-              <point x="62.5" y="43.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="76.0" y="60.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/factory/factorymethod/pizzastore/order/BJOrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangbo/factory/factorymethod/pizzastore/order/OrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="150">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
